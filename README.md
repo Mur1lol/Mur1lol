@@ -2,7 +2,7 @@
 
 ## Eae pessoal 👋
 
-Sou apaixonado por programação :computer:
+Sou um desenvolvedor junior apaixonado por programação :computer:
 
 ## Principais linguagens:
   - Php
