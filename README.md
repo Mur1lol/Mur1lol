@@ -7,9 +7,9 @@
 
 ---
 ### 📒 Principais linguagens:
-  > JavaScript <br/>
-  > Php <br/>
-  > Kotlin
+  + JavaScript 
+  + Php 
+  + Kotlin
   
 ---
 ### 📌 Entre em contato comigo:
