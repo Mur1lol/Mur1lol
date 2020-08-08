@@ -1,17 +1,19 @@
-# Murilo Brasil
+# Murilo Brasil Cordeiro
 
-## Eae pessoal 👋
+## 🙃 Sobre mim
 
-Sou um desenvolvedor junior apaixonado por programação :computer:
+🎓 Técnico em informatica formado em 2019, pelo IFPR.<br/>
+💻 Desenvolvedor Junior.
 
-## Principais linguagens:
-  - Php
-  - JavaScript
-  - Kotlin
+---
+### 📒 Principais linguagens:
+  > JavaScript <br/>
+  > Php <br/>
+  > Kotlin
+  
+---
+### 📌 Entre em contato comigo:
 
-Entre em contato comigo:
+[![Linkedin Badge](https://img.shields.io/badge/-Murilo%20Brasil%20Cordeiro-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mur1lol)
 <br/>
-<br/>
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Murilo%20Brasil-blue)](https://www.linkedin.com/in/mur1lol/) 
-<br/>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-Murilo%20Brasil-red)](mailto:bc.murilo.mbc@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-bc.murilo.mbc@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:bc.murilo.mbc@gmail.com)
