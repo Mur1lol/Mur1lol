@@ -2,14 +2,14 @@
 
 ## 🙃 Sobre mim
 
-🎓 Técnico em informatica formado em 2019, pelo IFPR.<br/>
+🎓 Téc. Informatica - IFPR (2016-2019).<br/>
+💻 Eng. Computação - UTFPR (2020- ).<br/>
 💻 Desenvolvedor Junior.
 
 ---
 ### 📒 Principais linguagens:
   + JavaScript 
   + Php 
-  + Kotlin
   
 ---
 ### 📌 Entre em contato comigo:
