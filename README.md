@@ -14,6 +14,6 @@
 ---
 ### 📌 Entre em contato comigo:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Murilo%20Brasil%20Cordeiro-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mur1lol)
+[![Linkedin Badge](https://img.shields.io/badge/-Murilo%20Brasil%20Cordeiro-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/murilobrasil)
 <br/>
-[![Gmail Badge](https://img.shields.io/badge/-bc.murilo.mbc@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:bc.murilo.mbc@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-contato.murilobrasil@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:contato.murilobrasil@gmail.com)
